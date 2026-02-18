@@ -1,83 +1,85 @@
 Sales Performance & Trend Analysis Dashboard
-Project Overview:
+
+☆ Project Overview:
+
 This Power BI dashboard analyzes the Superstore dataset to provide insights into overall sales performance, profitability, delivery trends, and regional contributions. The report is designed to help stakeholders monitor business performance, identify growth opportunities, and support data-driven decision-making.
 
-Objectives:
-Analyze total sales, profit, and order volume
+☆ Objectives:
 
-Monitor delivery performance over time
+● Analyze total sales, profit, and order volume
 
-Identify top-performing categories and regions
+● Monitor delivery performance over time
 
-Evaluate profit margins and business efficiency
+● Identify top-performing categories and regions
 
-Provide interactive filtering for deeper analysis
+● Evaluate profit margins and business efficiency
 
-Dataset
+● Provide interactive filtering for deeper analysis
+
+☆ Dataset
 
 The dataset used is the Superstore Sales dataset, which contains transactional data including:
 
-Order Date & Ship Date
+□ Order Date & Ship Date
 
-Sales, Profit, Quantity, Discount
+□ Sales, Profit, Quantity, Discount
 
-Category & Sub-Category
+□ Category & Sub-Category
 
-Region & State
+□ Region & State
 
-Customer Segment
+□ Customer Segment
 
-Dashboard Features
-🔹 Key Performance Indicators (KPIs)
+☆ Dashboard Features:
 
-Total Sales
+● Key Performance Indicators (KPIs)
 
-Total Profit
+●Total Sales
 
-Profit Margin (%)
+● Total Profit
 
-Total Orders
+● Total Orders
 
-Total Quantity
+● Total Quantity
 
-🔹 Visual Insights
+☆ Visual Insights
 
-Sales Trend Over Time (Line Chart)
+● Sales Trend Over Time (Line Chart)
 
-Sales by Category & Sub-Category
+● Sales by Category & Sub-Category
 
-Regional Performance Analysis
+● Regional Performance Analysis
 
-Segment-wise Sales Distribution
+● Segment-wise Sales Distribution
 
-Delivery Performance Analysis
+● Delivery Performance Analysis
 
-🔹 Interactivity
+☆ Interactivity
 
-Slicers for Year, Region, Category, and Segment
+■ Slicers for Year, Region, Category, and Segment
 
-Dynamic filtering across all visuals
+■ Dynamic filtering across all visuals
 
-Tools Used
+☆ Tools Used
 
-Power BI Desktop
+■ Power BI Desktop
 
-DAX (Data Analysis Expressions)
+■ DAX (Data Analysis Expressions)
 
-Data Modeling & Relationships
+■ Data Modeling & Relationships
 
-Time Intelligence Functions
+■ Time Intelligence Functions
 
-Key Insights
+☆ Key Insights
 
-Technology category contributes significantly to revenue
+● Technology category contributes significantly to revenue
 
-Some sub-categories show high sales but lower profitability
+● Some sub-categories show high sales but lower profitability
 
-Regional performance varies across time periods
+● Regional performance varies across time periods
 
-Delivery trends indicate consistent seasonal patterns
+● Delivery trends indicate consistent seasonal patterns
 
-Conclusion
+☆ Conclusion
 
 This dashboard provides a comprehensive overview of sales and delivery performance, enabling business users to monitor trends, compare segments, and make informed strategic decisions.
